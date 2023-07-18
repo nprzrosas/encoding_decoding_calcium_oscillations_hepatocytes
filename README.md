@@ -1,1 +1,3 @@
-# encoding_decoding_calcium_oscillations_hepatocytes
+# Encoding and Decoding Calcium Oscillations in Hepatocytes
+
+Description here
